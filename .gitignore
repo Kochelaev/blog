@@ -1,8 +1,8 @@
-/marketplace/node_modules
-/marketplace/public/hot
-/marketplace/public/storage
-/marketplace/storage/*.key
-/marketplace/vendor
+/blog/node_modules
+/blog/public/hot
+/blog/public/storage
+/blog/storage/*.key
+/blog/vendor
 .env
 .env.backup
 .phpunit.result.cache
@@ -11,8 +11,9 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-/marketplace/.idea
-/marketplace/.vscode
+/blog/.idea
+/blog/.vscode
 /.db
 /.docker/db
 /.docker/redis
+/template
